@@ -36,3 +36,9 @@ header {
     position: absolute;
     right: 1%;
 }
+
+.radio-buttons {
+    display:flex;
+    justify-content:space-between;
+    
+}
